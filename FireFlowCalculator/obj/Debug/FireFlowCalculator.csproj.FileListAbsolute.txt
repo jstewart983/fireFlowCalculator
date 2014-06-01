@@ -1,0 +1,5 @@
+c:\users\jordan\documents\visual studio 2012\Projects\FireFlowCalculator\FireFlowCalculator\bin\Debug\FireFlowCalculator.exe.config
+c:\users\jordan\documents\visual studio 2012\Projects\FireFlowCalculator\FireFlowCalculator\obj\Debug\FireFlowCalculator.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2012\Projects\FireFlowCalculator\FireFlowCalculator\obj\Debug\FireFlowCalculator.frmHydrantFlowCalc.resources
+c:\users\jordan\documents\visual studio 2012\Projects\FireFlowCalculator\FireFlowCalculator\obj\Debug\FireFlowCalculator.Properties.Resources.resources
+c:\users\jordan\documents\visual studio 2012\Projects\FireFlowCalculator\FireFlowCalculator\obj\Debug\FireFlowCalculator.csproj.GenerateResource.Cache
